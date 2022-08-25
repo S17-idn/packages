@@ -26,7 +26,6 @@ pkg install x11-repo -y
 pkg install science-repo -y
 pkg install game-repo -y
 pkg install clang -y
-pkg install vlang -y
 pkg install slang -y
 pkg install golang -y
 pkg install 8086tiny -y
